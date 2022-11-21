@@ -1,5 +1,5 @@
 # Publishing Sites with GitHub Pages
-
+By: Majo Lee
 
 ## Summary
 
